@@ -44,7 +44,7 @@ class GPT
     }
 
     /**
-     * Отправка запроса в SMS-службу
+     * Отправка запроса
      *
      * @param array $send_data
      * @return array
